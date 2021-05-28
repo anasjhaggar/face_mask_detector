@@ -1,4 +1,4 @@
-Face Mask Detector
+<!-- Face Mask Detector
 Using YOLOv3, Darknet, OpenCV, CUDA, NumPy, Python, Google Colab, Pycharm
 Anas Abdullah -  anasjhaggar@gmail.com 
 https://www.linkedin.com/in/anasjhaggar/
@@ -14,3 +14,4 @@ We have pre-installed automatic doors system and CCTVs at the entrance of Shoppi
 
 
 
+ -->
