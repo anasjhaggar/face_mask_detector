@@ -1,4 +1,4 @@
-<!-- # face_mask_detector
+# face_mask_detector
 Face mask Detection: This repository include my project details and source files.  
 
 Using YOLOv3, Darknet, OpenCV, CUDA, NumPy, Python, Google Colab, Pycharm
@@ -17,4 +17,4 @@ We already have automatic electric doors and CCTV footage cameras working at the
 Anas Abdullah
 Lahore, Punjab, Pakistan
 anasjhaggar@gmail.com 
-https://www.linkedin.com/in/anasjhaggar/ -->
+https://www.linkedin.com/in/anasjhaggar/
